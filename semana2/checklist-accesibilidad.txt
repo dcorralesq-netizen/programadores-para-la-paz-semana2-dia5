@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Deimer Andrés Corrales Quevedo
+Fecha:01/05/2026
+Nombre de la rama:deimer_andres_corrales_quevedo
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta:Si, ya que el titulo deja claro que se trata de un formularo para recoger propuestas o ideas para la mejora de la comunidad
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta:Si, el folmulario deja claro que la informacion se usara para la mejora de la comunidad
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta:Si, la tiene y es de lo primero que veria el usuario
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta:Sí, el formulario utiliza un lenguaje cotidiano y directo sin tecnicismos innecesarios, lo que facilita que cualquier miembro de la comunidad entienda qué información debe ingresar
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta:Sí, el formulario se limita a solicitar el nombre y la propuesta, dejando el contacto como algo opcional para respetar la privacidad y no saturar al usuario con campos obligatorios
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta:Sí, al utilizar un cuadro de texto amplio (textarea), el usuario tiene suficiente espacio visual para desarrollar su idea de manera organizada y extensa
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta:Sí, el formulario incluye tanto una casilla de verificación (checkbox) como un mensaje claro que explica que la información será usada únicamente para fines de participación comunitaria
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:Sí, el botón utiliza el texto "Enviar participación", lo cual es muy descriptivo porque indica la acción exacta que se realizará al pulsarlo, vinculándola con el objetivo del formulario
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta:Sí, la página tiene una estructura limpia y jerarquizada con títulos en negrita, aunque se podría mejorar el contraste de los textos en gris claro para que sean más legibles
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta:Mejoraría principalmente el contraste de color entre el texto gris de los campos y el fondo, y aumentaría el tamaño de la fuente en el mensaje de consentimiento para asegurar que sea legible para personas con dificultades visuales
