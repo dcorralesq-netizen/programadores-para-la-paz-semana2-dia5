@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Deimer Andres Corrales Quevedo
+Fecha:01/05/2026
+Nombre de la rama:deimer_andres_corrales_quevedo
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
