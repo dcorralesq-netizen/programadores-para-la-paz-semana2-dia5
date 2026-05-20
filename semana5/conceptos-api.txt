@@ -1,0 +1,5 @@
+Qué hace: Recibe datos enviados por el usuario (un mensaje) y responde con un objeto 
+JSON confirmando la recepción.
+
+Uso comunitario: Serviría para que los vecinos envíen reportes de daños, alertas de seguridad o registren 
+necesidades de la comunidad en una base de datos.

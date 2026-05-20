@@ -1,0 +1,13 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera 
+organizada?
+
+Las APIs son herramientas fundamentales para la organización comunitaria porque permiten centralizar y 
+estandarizar la información. Al crear un sistema donde diferentes aplicaciones o dispositivos pueden 
+"hablar" entre sí, las comunidades pueden generar redes de alertas tempranas o mapas de recursos en 
+tiempo real. Por ejemplo, una API podría recibir reportes de fallas en servicios públicos desde los 
+celulares de los vecinos y organizar esos datos automáticamente para que los líderes comunales tengan 
+estadísticas claras. Esto reduce el desorden de los mensajes de texto o redes sociales, permitiendo que 
+la información sea procesable y útil. Además, al usar formatos abiertos, cualquier miembro con conocimientos 
+técnicos puede crear nuevas herramientas que consuman esa misma información, fomentando la transparencia 
+y la colaboración. En resumen, las APIs transforman el caos de la información suelta en un sistema 
+organizado y escalable para el bien común.
