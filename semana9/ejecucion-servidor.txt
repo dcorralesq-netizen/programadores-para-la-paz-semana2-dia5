@@ -1,0 +1,4 @@
+Cuando ejecuto 'node server.js', la terminal muestra el mensaje 'Servidor ejecutándose en puerto 3000', 
+indicando que el proceso está activo. Al visitar la ruta /estado en el navegador, recibo un objeto JSON 
+que confirma el funcionamiento del servicio. Esto demuestra que el servidor procesa las peticiones 
+correctamente.

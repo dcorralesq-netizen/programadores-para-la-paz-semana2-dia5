@@ -1,0 +1,51 @@
+Pregunta 1: ¿Qué es un servidor en una aplicación web?
+Opciones:
+
+A. Un computador que solo guarda archivos
+
+B. Un sistema que ejecuta aplicaciones y responde solicitudes de los usuarios
+
+C. Un navegador de internet
+
+D. Un archivo del sistema
+
+Respuesta: B. Un sistema que ejecuta aplicaciones y responde solicitudes de los usuarios
+
+Pregunta 2: ¿Qué significa que un servidor escuche en un puerto?
+Opciones:
+
+A. Que el servidor está conectado a un cable
+
+B. Que el servidor está esperando solicitudes en una dirección específica
+
+C. Que el servidor está apagado
+
+D. Que el servidor guarda información
+
+Respuesta: B. Que el servidor está esperando solicitudes en una dirección específica
+
+Pregunta 3: ¿Cuál de los siguientes elementos es importante para la estabilidad de un servidor?
+Opciones:
+
+A. No revisar el sistema
+
+B. Monitorear ejecución y registrar errores
+
+C. Compartir todas las credenciales
+
+D. Eliminar registros del sistema
+
+Respuesta: B. Monitorear ejecución y registrar errores
+
+Pregunta 4: ¿Qué son los logs en un servidor?
+Opciones:
+
+A. Archivos que registran la actividad y eventos del sistema
+
+B. Programas para instalar software
+
+C. Archivos de imágenes
+
+D. Un navegador web
+
+Respuesta: A. Archivos que registran la actividad y eventos del sistema

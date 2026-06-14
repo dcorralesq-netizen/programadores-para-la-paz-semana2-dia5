@@ -1,0 +1,9 @@
+Es fundamental que las plataformas comunitarias funcionen de manera estable porque la continuidad del 
+servicio genera confianza en los usuarios. Si una herramienta falla constantemente, la participación 
+ciudadana se ve afectada y los procesos sociales se detienen. Un servidor seguro protege la información 
+sensible de los miembros, garantizando un entorno confiable para el diálogo. El monitoreo constante y el 
+uso de tecnologías robustas como Node.js permiten que la plataforma crezca de forma organizada. Además, 
+la estabilidad técnica asegura la transparencia, ya que los datos están siempre disponibles para ser 
+consultados por la comunidad. En conclusión, un servidor bien administrado no es solo un lujo técnico, 
+sino una necesidad ética para sostener cualquier proceso democrático y participativo en la era digital 
+actual.

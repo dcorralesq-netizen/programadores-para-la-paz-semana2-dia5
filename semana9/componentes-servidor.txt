@@ -1,0 +1,5 @@
+Sistema operativo: Es la plataforma base que gestiona los recursos físicos para que el servidor funcione.
+Node.js: Es el entorno que permite ejecutar el código JavaScript fuera del navegador, en el servidor.
+Aplicación server.js: Es el código fuente donde programamos las reglas y respuestas de nuestra plataforma.
+Puerto: Es el canal de comunicación específico por donde nuestra aplicación recibe los datos.
+Logs: Son los registros históricos de eventos que sirven para auditar y corregir fallas en el sistema.
