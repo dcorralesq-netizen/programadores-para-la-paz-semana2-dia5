@@ -1,0 +1,9 @@
+Es fundamental que las plataformas tecnológicas reciban reportes ciudadanos de forma estructurada porque 
+esto permite que la información sea procesada automáticamente por algoritmos y bases de datos. Cuando los 
+datos llegan organizados (como en formato JSON), las autoridades pueden clasificar las urgencias por tipo 
+o ubicación de manera inmediata, eliminando la necesidad de leer manualmente miles de mensajes desordenados. 
+Además, el uso de datos estructurados facilita la transparencia y la rendición de cuentas, ya que permite 
+generar estadísticas reales sobre los problemas de la comunidad. Esto no solo mejora la eficiencia operativa, 
+sino que también fortalece la confianza de los ciudadanos al ver que sus reportes son atendidos de forma 
+técnica y profesional. En resumen, la estructura de datos es la base de una gobernanza digital moderna y 
+efectiva.

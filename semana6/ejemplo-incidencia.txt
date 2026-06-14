@@ -1,0 +1,4 @@
+{
+  "tipo": "Falla eléctrica",
+  "descripcion": "El poste de luz frente a la casa 45 está echando chispas desde la lluvia de anoche."
+}
