@@ -1,0 +1,3 @@
+Al consultar mediante GET, el servidor devuelve un array con todos los objetos guardados. 
+Si el array está vacío, devuelve []. Tras usar POST, la consulta GET muestra los nuevos 
+reportes con su ID asignado automáticamente.
