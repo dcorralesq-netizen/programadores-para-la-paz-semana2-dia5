@@ -1,0 +1,31 @@
+Pregunta 1: ¿Qué es un sistema operativo?
+Opciones:
+A. Un programa que navega en internet
+B. El software que administra el hardware y permite ejecutar programas
+C. Un archivo de texto
+D. Un servidor web
+Respuesta: B. El software que administra el hardware y permite ejecutar programas
+
+Pregunta 2: ¿Cuál de los siguientes es un sistema operativo de código abierto?
+Opciones:
+A. Ubuntu
+B. Windows
+C. iOS
+D. Chrome
+Respuesta: A. Ubuntu
+
+Pregunta 3: ¿Qué es la terminal en un sistema Linux?
+Opciones:
+A. Una aplicación para editar imágenes
+B. Una interfaz que permite ejecutar comandos directamente en el sistema
+C. Un navegador web
+D. Un antivirus
+Respuesta: B. Una interfaz que permite ejecutar comandos directamente en el sistema
+
+Pregunta 4: ¿Cuál de las siguientes prácticas mejora la seguridad digital?
+Opciones:
+A. Compartir contraseñas con todos
+B. Usar contraseñas fuertes y proteger credenciales
+C. Guardar claves en archivos públicos
+D. Desactivar controles de seguridad
+Respuesta: B. Usar contraseñas fuertes y proteger credenciales

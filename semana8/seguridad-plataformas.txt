@@ -1,0 +1,5 @@
+1. Uso de contraseñas fuertes y complejas para todos los niveles de acceso.
+2. Implementación de certificados SSL/TLS para asegurar conexiones mediante HTTPS.
+3. Realización de copias de seguridad (backups) periódicas de toda la información.
+4. Monitoreo constante de los registros de acceso (logs) para detectar anomalías.
+5. Limitación de permisos de usuario siguiendo el principio de mínimo privilegio.

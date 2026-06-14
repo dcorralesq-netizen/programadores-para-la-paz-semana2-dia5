@@ -1,0 +1,10 @@
+La seguridad digital es fundamental para las plataformas comunitarias porque protege la privacidad y la 
+integridad de los datos de sus participantes. En un entorno participativo, cualquier vulnerabilidad 
+técnica puede romper la confianza de los usuarios, alejándolos del proceso social. Garantizar que la 
+información sea privada y que el sistema esté disponible es una responsabilidad ética que sostiene la 
+continuidad operativa del proyecto. El uso de tecnologías abiertas como Linux permite auditar los sistemas 
+y entender mejor cómo se protegen los recursos, fomentando la soberanía tecnológica. Una plataforma segura 
+no solo previene ataques externos, sino que asegura que la comunicación entre los miembros sea 
+transparente y libre de sabotajes. En conclusión, invertir en seguridad operativa es invertir en la 
+confianza y el tejido social de la comunidad, permitiendo que la tecnología cumpla su propósito de 
+fortalecer la participación ciudadana sin riesgos innecesarios.

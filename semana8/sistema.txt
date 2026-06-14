@@ -1,0 +1,8 @@
+Información de comandos:
+- 'uname -a': Muestra información detallada del sistema operativo, incluyendo el nombre del kernel, la versión y la arquitectura del hardware.
+- 'whoami': Muestra el nombre del usuario actual que tiene la sesión abierta en la terminal.
+
+Utilidad:
+Es fundamental conocer esta información al administrar un servidor para verificar la compatibilidad de 
+software, realizar actualizaciones de seguridad precisas y controlar qué usuario tiene permisos para 
+ejecutar procesos críticos, evitando accesos no autorizados.
