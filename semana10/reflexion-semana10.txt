@@ -1,0 +1,8 @@
+Las metodologías ágiles, la automatización y herramientas de mensajería como Telegram aportan una estructura 
+organizativa invaluable para los procesos comunitarios y de participación ciudadana. Al fragmentar los 
+objetivos de control social en un backlog dinámico, se evita la improvisación y se permite que los comités 
+de veeduría prioricen las demandas más críticas de la población. Por su parte, la automatización responsable 
+mediante flujos repetitivos agiliza los tiempos de respuesta interna, permitiendo delegar notificaciones 
+y estados de alerta automáticos a canales como Telegram sin comprometer la seguridad. Esto asegura que la 
+comunidad se mantenga informada en tiempo real sin recargar de tareas manuales a los coordinadores, 
+propiciando un entorno transparente, seguro y altamente coordinado.
