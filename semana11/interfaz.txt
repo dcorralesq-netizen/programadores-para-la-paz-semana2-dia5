@@ -1,0 +1,6 @@
+La interfaz de la plataforma contará con una vista principal clara y sencilla, diseñada para mostrar las 
+causas comunitarias disponibles y permitir la lectura pública de sus títulos y descripciones. Incorporará 
+un formulario integrado con campos específicos para que los usuarios autenticados creen nuevas causas 
+ingresando título, descripción detallada y fecha. Al lado de cada causa, se visualizará un botón 
+interactivo para apoyarla de manera directa y un contador numérico en tiempo real que refleje la 
+cantidad acumulada de apoyos, cuidando de no mostrar ningún dato privado o sensible de los usuarios.

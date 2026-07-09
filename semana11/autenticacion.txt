@@ -1,0 +1,6 @@
+El login en una aplicación es el mecanismo que valida la identidad de un usuario a través de credenciales 
+para otorgarle acceso a la plataforma. Ciertas rutas del sistema deben estar protegidas de forma estricta 
+porque contienen información confidencial, reportes comunitarios internos o acciones administrativas que 
+no pueden estar disponibles de forma pública. Por motivos de seguridad y respeto a la privacidad, bajo 
+ninguna circunstancia se deben exponer públicamente contraseñas, documentos de identidad, números 
+telefónicos, direcciones, tokens del sistema ni claves API.

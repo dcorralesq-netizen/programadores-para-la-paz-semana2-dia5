@@ -1,0 +1,8 @@
+Una plataforma tecnológica enfocada en la participación ciudadana debe integrar de manera obligatoria una 
+base de datos organizada, sistemas de autenticación y mecanismos rígidos de protección de la información 
+para operar con responsabilidad social. La base de datos es indispensable porque proporciona la 
+persistencia, orden y trazabilidad que toda veeduría requiere para que los datos no se pierdan con el 
+tiempo. Por su parte, la autenticación actúa como una barrera de seguridad que garantiza que solo 
+personas autorizadas ejecuten acciones críticas o alteren registros dentro de la aplicación. Finalmente, 
+la protección de los datos sensibles previene que el control social se convierta en una herramienta de 
+persecución, resguardando la integridad física y la privacidad de todos los ciudadanos que denuncian de buena fe.

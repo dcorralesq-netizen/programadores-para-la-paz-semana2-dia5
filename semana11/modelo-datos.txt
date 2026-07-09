@@ -1,0 +1,17 @@
+Entidad: Causa
+Campos principales:
+- id (Identificador único numérico)
+- titulo (Texto corto de la causa)
+- descripcion (Detalle completo del problema)
+- fecha (Fecha de registro)
+Propósito:
+Guardar de forma estructurada las causas y peticiones de la comunidad para que sean visibles en la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+- id (Identificador único numérico)
+- causa_id (Relación con la entidad Causa)
+- usuario (Nombre de usuario simulado)
+- fecha (Fecha en la que se brindó el apoyo)
+Propósito:
+Registrar de manera trazable cada apoyo digital recibido por una causa específica para medir su impacto social.
