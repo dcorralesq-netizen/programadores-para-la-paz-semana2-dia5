@@ -1,0 +1,15 @@
+Modelo de datos para "Petición en 3 Clics":
+
+Entidad: Causa
+- id: Identificador único de la causa.
+- titulo: Nombre descriptivo de la solicitud comunitaria.
+- descripcion: Detalle del problema o propuesta.
+- fecha: Día y hora de creación de la causa.
+Propósito: Almacena los datos principales de las iniciativas comunitarias propuestas.
+
+Entidad: Apoyo
+- id: Identificador único del registro de apoyo.
+- causa_id: Relación con la causa específica apoyada.
+- nombre: Nombre del ciudadano que apoya (minimizado).
+- fecha: Momento exacto en el que se registró el apoyo.
+Propósito: Registra y contabiliza la participación ciudadana para cada causa.
